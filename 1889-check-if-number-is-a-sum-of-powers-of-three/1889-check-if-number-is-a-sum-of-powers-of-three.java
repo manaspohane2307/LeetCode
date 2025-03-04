@@ -1,20 +1,18 @@
 class Solution {
-    static boolean backtrack(int n, int i, int curr) {
-        if (curr == n) {
-            return true;
-        }
-        if (curr > n || (int) Math.pow(3, i) > n) {
-            return false;
-        }
-        // include
-        if (backtrack(n, i + 1, curr + (int)Math.pow(3, i))) {
-            return true;
-        }
-        // skip
-        return backtrack(n, i + 1, curr);
-    }
-
     public boolean checkPowersOfThree(int n) {
-        return backtrack(n, 0, 0);
+        //find largest power of 3^i <= n
+        int i=0;
+        while((int)Math.pow(3,i+1) <= n){
+            i += 1;
+        }
+        //greedy- remove largest powers
+        while(i>=0){
+            int power = (int)Math.pow(3,i);
+            if(power<=n){
+                n -= power;
+            }
+            i -= 1;
+        }
+        return n==0;
     }
 }
