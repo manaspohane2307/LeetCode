@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manaspohane2307/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -29,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manaspohane2307/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/manaspohane2307/LeetCode/tree/master/3447-clear-digits) |
@@ -66,6 +68,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manaspohane2307/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/manaspohane2307/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manaspohane2307/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
