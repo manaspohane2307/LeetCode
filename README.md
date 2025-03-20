@@ -17,6 +17,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/manaspohane2307/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manaspohane2307/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/manaspohane2307/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/manaspohane2307/LeetCode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manaspohane2307/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -106,9 +107,18 @@
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/manaspohane2307/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manaspohane2307/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manaspohane2307/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/manaspohane2307/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/manaspohane2307/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
