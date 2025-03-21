@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/manaspohane2307/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -29,6 +30,7 @@
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manaspohane2307/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -46,6 +48,7 @@
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manaspohane2307/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/manaspohane2307/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/manaspohane2307/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -120,5 +123,10 @@
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/manaspohane2307/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
