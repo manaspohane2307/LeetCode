@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
