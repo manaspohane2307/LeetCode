@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manaspohane2307/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -164,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [3430-count-days-without-meetings](https://github.com/manaspohane2307/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manaspohane2307/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
