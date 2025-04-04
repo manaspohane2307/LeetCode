@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -171,10 +172,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
@@ -219,4 +222,12 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/manaspohane2307/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
