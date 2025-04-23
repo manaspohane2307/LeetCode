@@ -23,6 +23,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/manaspohane2307/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
+| [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manaspohane2307/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/manaspohane2307/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/manaspohane2307/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -269,4 +272,20 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/manaspohane2307/LeetCode/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
