@@ -82,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/manaspohane2307/LeetCode/tree/master/0038-count-and-say) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
