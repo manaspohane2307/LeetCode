@@ -27,6 +27,7 @@
 | [0047-permutations-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/manaspohane2307/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/manaspohane2307/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
@@ -341,6 +342,7 @@
 | [0040-combination-sum-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/manaspohane2307/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/manaspohane2307/LeetCode/tree/master/0051-n-queens) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manaspohane2307/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
