@@ -20,6 +20,7 @@
 | [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/manaspohane2307/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/manaspohane2307/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
