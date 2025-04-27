@@ -25,6 +25,7 @@
 | [0045-jump-game-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/manaspohane2307/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/manaspohane2307/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
@@ -141,6 +142,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manaspohane2307/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/manaspohane2307/LeetCode/tree/master/0048-rotate-image) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
