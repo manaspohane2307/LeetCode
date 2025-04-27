@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/manaspohane2307/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/manaspohane2307/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@
 | [0001-two-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/manaspohane2307/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/manaspohane2307/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -284,6 +287,7 @@
 | [0016-3sum-closest](https://github.com/manaspohane2307/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/manaspohane2307/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
