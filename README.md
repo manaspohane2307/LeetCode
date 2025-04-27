@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manaspohane2307/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -160,6 +162,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -311,6 +314,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/manaspohane2307/LeetCode/tree/master/0037-sudoku-solver) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manaspohane2307/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
