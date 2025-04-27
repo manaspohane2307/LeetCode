@@ -21,6 +21,7 @@
 | [0039-combination-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/manaspohane2307/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
@@ -107,6 +108,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manaspohane2307/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manaspohane2307/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
@@ -157,6 +159,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manaspohane2307/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/manaspohane2307/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -255,6 +258,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -306,6 +310,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manaspohane2307/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
