@@ -41,6 +41,7 @@
 | [0074-search-a-2d-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manaspohane2307/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@
 | [0038-count-and-say](https://github.com/manaspohane2307/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/manaspohane2307/LeetCode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -202,6 +204,7 @@
 | [0063-unique-paths-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -284,6 +287,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -376,6 +380,7 @@
 | [0047-permutations-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/manaspohane2307/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/manaspohane2307/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manaspohane2307/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
