@@ -46,6 +46,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manaspohane2307/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manaspohane2307/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
@@ -135,6 +136,7 @@
 | [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -335,6 +337,7 @@
 | [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/manaspohane2307/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
