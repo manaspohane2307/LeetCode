@@ -44,6 +44,7 @@
 | [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manaspohane2307/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manaspohane2307/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manaspohane2307/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/manaspohane2307/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/manaspohane2307/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manaspohane2307/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
