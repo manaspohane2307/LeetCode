@@ -37,6 +37,7 @@
 | [0063-unique-paths-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/manaspohane2307/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/manaspohane2307/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/manaspohane2307/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/manaspohane2307/LeetCode/tree/master/0068-text-justification) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -186,6 +188,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/manaspohane2307/LeetCode/tree/master/0068-text-justification) |
 | [3447-clear-digits](https://github.com/manaspohane2307/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
