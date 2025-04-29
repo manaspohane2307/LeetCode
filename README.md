@@ -57,6 +57,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/manaspohane2307/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
@@ -229,6 +230,7 @@
 | [0074-search-a-2d-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/manaspohane2307/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -297,6 +299,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manaspohane2307/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/manaspohane2307/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -316,11 +319,13 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
