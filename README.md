@@ -59,6 +59,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/manaspohane2307/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/manaspohane2307/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/manaspohane2307/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
@@ -400,6 +401,7 @@
 | [0055-jump-game](https://github.com/manaspohane2307/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/manaspohane2307/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/manaspohane2307/LeetCode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/manaspohane2307/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manaspohane2307/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
