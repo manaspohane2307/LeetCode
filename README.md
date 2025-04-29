@@ -65,6 +65,7 @@
 | [0139-word-break](https://github.com/manaspohane2307/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/manaspohane2307/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
@@ -359,6 +360,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/manaspohane2307/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
