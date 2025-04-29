@@ -69,6 +69,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/manaspohane2307/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manaspohane2307/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
@@ -165,6 +166,7 @@
 | [0075-sort-colors](https://github.com/manaspohane2307/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manaspohane2307/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -282,6 +284,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manaspohane2307/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/manaspohane2307/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manaspohane2307/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/manaspohane2307/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
