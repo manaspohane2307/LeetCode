@@ -52,6 +52,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/manaspohane2307/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manaspohane2307/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/manaspohane2307/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/manaspohane2307/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
@@ -328,6 +329,7 @@
 | [0064-minimum-path-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/manaspohane2307/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/manaspohane2307/LeetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
