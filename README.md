@@ -86,6 +86,7 @@
 | [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/manaspohane2307/LeetCode/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -273,6 +274,7 @@
 | [0174-dungeon-game](https://github.com/manaspohane2307/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/manaspohane2307/LeetCode/tree/master/0221-maximal-square) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -406,6 +408,7 @@
 | [0174-dungeon-game](https://github.com/manaspohane2307/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/manaspohane2307/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/manaspohane2307/LeetCode/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
