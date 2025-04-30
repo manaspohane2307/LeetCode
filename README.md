@@ -76,6 +76,7 @@
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/manaspohane2307/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/manaspohane2307/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -210,6 +211,7 @@
 | [0066-plus-one](https://github.com/manaspohane2307/LeetCode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/manaspohane2307/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/manaspohane2307/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -264,6 +266,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/manaspohane2307/LeetCode/tree/master/0204-count-primes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/manaspohane2307/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manaspohane2307/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/manaspohane2307/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -489,6 +492,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/manaspohane2307/LeetCode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manaspohane2307/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/manaspohane2307/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/manaspohane2307/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
