@@ -78,6 +78,7 @@
 | [0200-number-of-islands](https://github.com/manaspohane2307/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/manaspohane2307/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -189,6 +190,7 @@
 | [0139-word-break](https://github.com/manaspohane2307/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/manaspohane2307/LeetCode/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0212-word-search-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -261,6 +263,7 @@
 | [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/manaspohane2307/LeetCode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0212-word-search-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -486,6 +489,7 @@
 | [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0212-word-search-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manaspohane2307/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -533,6 +537,7 @@
 | ------- |
 | [0139-word-break](https://github.com/manaspohane2307/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
