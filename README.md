@@ -83,6 +83,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/manaspohane2307/LeetCode/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -445,11 +446,13 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manaspohane2307/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/manaspohane2307/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Greedy
@@ -522,10 +525,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
@@ -534,6 +539,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -562,4 +568,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
