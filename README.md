@@ -84,6 +84,7 @@
 | [0216-combination-sum-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/manaspohane2307/LeetCode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -146,6 +147,7 @@
 | [0149-max-points-on-a-line](https://github.com/manaspohane2307/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manaspohane2307/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/manaspohane2307/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manaspohane2307/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
