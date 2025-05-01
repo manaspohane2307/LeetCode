@@ -100,6 +100,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manaspohane2307/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/manaspohane2307/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -352,6 +353,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manaspohane2307/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2249-count-the-hidden-sequences](https://github.com/manaspohane2307/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/manaspohane2307/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/manaspohane2307/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -628,4 +630,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/manaspohane2307/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
