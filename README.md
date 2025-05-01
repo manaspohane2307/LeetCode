@@ -94,6 +94,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/manaspohane2307/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -454,6 +455,7 @@
 | [0220-contains-duplicate-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/manaspohane2307/LeetCode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/manaspohane2307/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -610,4 +612,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/manaspohane2307/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
