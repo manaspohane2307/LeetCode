@@ -102,6 +102,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/manaspohane2307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -576,11 +577,13 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/manaspohane2307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/manaspohane2307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
@@ -638,4 +641,5 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/manaspohane2307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
