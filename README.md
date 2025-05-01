@@ -99,6 +99,7 @@
 | [0283-move-zeroes](https://github.com/manaspohane2307/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manaspohane2307/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/manaspohane2307/LeetCode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -338,6 +339,7 @@
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/manaspohane2307/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/manaspohane2307/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/manaspohane2307/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -436,6 +438,7 @@
 | [0198-house-robber](https://github.com/manaspohane2307/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/manaspohane2307/LeetCode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
