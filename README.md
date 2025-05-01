@@ -105,6 +105,7 @@
 | [0307-range-sum-query-mutable](https://github.com/manaspohane2307/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manaspohane2307/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/manaspohane2307/LeetCode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/manaspohane2307/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -246,6 +247,7 @@
 | [0189-rotate-array](https://github.com/manaspohane2307/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/manaspohane2307/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/manaspohane2307/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manaspohane2307/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -449,6 +451,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/manaspohane2307/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/manaspohane2307/LeetCode/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/manaspohane2307/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
