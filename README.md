@@ -221,6 +221,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manaspohane2307/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/manaspohane2307/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/manaspohane2307/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/manaspohane2307/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/manaspohane2307/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/manaspohane2307/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/manaspohane2307/LeetCode/tree/master/0068-text-justification) |
@@ -442,6 +443,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manaspohane2307/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/manaspohane2307/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/manaspohane2307/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/manaspohane2307/LeetCode/tree/master/0053-maximum-subarray) |
@@ -593,6 +595,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/manaspohane2307/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/manaspohane2307/LeetCode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
