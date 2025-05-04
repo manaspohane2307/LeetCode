@@ -112,6 +112,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manaspohane2307/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/manaspohane2307/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -177,6 +178,7 @@
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manaspohane2307/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/manaspohane2307/LeetCode/tree/master/1500-count-largest-group) |
@@ -248,6 +250,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0229-majority-element-ii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
