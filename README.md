@@ -479,6 +479,7 @@
 | [0313-super-ugly-number](https://github.com/manaspohane2307/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0806-domino-and-tromino-tiling](https://github.com/manaspohane2307/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/manaspohane2307/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/manaspohane2307/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
