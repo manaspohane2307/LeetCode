@@ -115,6 +115,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/manaspohane2307/LeetCode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -184,6 +185,7 @@
 | [0229-majority-element-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -259,6 +261,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/manaspohane2307/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manaspohane2307/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/manaspohane2307/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/manaspohane2307/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -526,6 +529,7 @@
 | [0229-majority-element-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/manaspohane2307/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/manaspohane2307/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -550,6 +554,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manaspohane2307/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -557,6 +562,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/manaspohane2307/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/manaspohane2307/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/manaspohane2307/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Greedy
@@ -693,6 +699,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manaspohane2307/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Line Sweep
 |  |
 | ------- |
@@ -701,6 +708,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/manaspohane2307/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/manaspohane2307/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
