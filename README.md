@@ -110,6 +110,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/manaspohane2307/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/manaspohane2307/LeetCode/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -323,6 +324,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/manaspohane2307/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/manaspohane2307/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -427,6 +429,7 @@
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -434,6 +437,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manaspohane2307/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
@@ -442,6 +446,7 @@
 | [0079-word-search](https://github.com/manaspohane2307/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/LeetCode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -450,6 +455,7 @@
 | [0130-surrounded-regions](https://github.com/manaspohane2307/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/manaspohane2307/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/manaspohane2307/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manaspohane2307/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/manaspohane2307/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/manaspohane2307/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -482,6 +488,7 @@
 | [0312-burst-balloons](https://github.com/manaspohane2307/LeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/manaspohane2307/LeetCode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/manaspohane2307/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/manaspohane2307/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -666,6 +673,7 @@
 | ------- |
 | [0139-word-break](https://github.com/manaspohane2307/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Geometry
 |  |
 | ------- |
