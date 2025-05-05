@@ -113,6 +113,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/manaspohane2307/LeetCode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/manaspohane2307/LeetCode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -273,6 +274,7 @@
 | [0204-count-primes](https://github.com/manaspohane2307/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/manaspohane2307/LeetCode/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/manaspohane2307/LeetCode/tree/master/0313-super-ugly-number) |
+| [0335-self-crossing](https://github.com/manaspohane2307/LeetCode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manaspohane2307/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -682,6 +684,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/manaspohane2307/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/manaspohane2307/LeetCode/tree/master/0335-self-crossing) |
 ## Quickselect
 |  |
 | ------- |
