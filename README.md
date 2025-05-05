@@ -112,6 +112,7 @@
 | [0327-count-of-range-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/manaspohane2307/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/manaspohane2307/LeetCode/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/manaspohane2307/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manaspohane2307/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/manaspohane2307/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -564,6 +565,7 @@
 | [0135-candy](https://github.com/manaspohane2307/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/manaspohane2307/LeetCode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/manaspohane2307/LeetCode/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/manaspohane2307/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/manaspohane2307/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/manaspohane2307/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/manaspohane2307/LeetCode/tree/master/2681-put-marbles-in-bags) |
