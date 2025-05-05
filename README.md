@@ -278,6 +278,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manaspohane2307/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/manaspohane2307/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manaspohane2307/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manaspohane2307/LeetCode/tree/master/0048-rotate-image) |
@@ -648,6 +649,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manaspohane2307/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/manaspohane2307/LeetCode/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/manaspohane2307/LeetCode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
@@ -733,4 +735,8 @@
 | [0303-range-sum-query-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/manaspohane2307/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/manaspohane2307/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/manaspohane2307/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
