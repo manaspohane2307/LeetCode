@@ -128,6 +128,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manaspohane2307/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/manaspohane2307/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/manaspohane2307/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/manaspohane2307/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaspohane2307/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/manaspohane2307/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manaspohane2307/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -330,6 +331,7 @@
 | [0059-spiral-matrix-ii](https://github.com/manaspohane2307/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/manaspohane2307/LeetCode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/manaspohane2307/LeetCode/tree/master/0289-game-of-life) |
+| [2048-build-array-from-permutation](https://github.com/manaspohane2307/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/manaspohane2307/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
